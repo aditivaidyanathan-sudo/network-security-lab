@@ -1,9 +1,9 @@
-# network-security-lab
+# Network Security Lab
 Hands-on network security lab: built a virtual subnet, analysed live  DNS/TCP/UDP traffic with Wireshark, simulated TCP SYN flood and IP  spoofing attacks using hping3, then mitigated them with iptables  firewall rules. Covers the full attack-defence lifecycle end to end.
 
 ## Overview
 A hands-on network security lab built using virtual machines, covering the full 
-attack-defence lifecycle across 5 levels.
+attack-defence lifecycle across 4 levels.
 
 ## Project Outline
 - **Level 1:** Built a /23 subnet network between two VMs and verified connectivity 
